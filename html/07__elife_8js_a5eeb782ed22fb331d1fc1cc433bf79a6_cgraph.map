@@ -1,0 +1,6 @@
+<map id="LifelikeWorld" name="LifelikeWorld">
+<area shape="rect" id="node2" href="$07__elife_8js.html#a3354d0a777cba28b9b87c15f475ee474" title="World" alt="" coords="149,56,205,83"/>
+<area shape="rect" id="node3" href="$07__elife_8js.html#ab21238bad678e58b0c7f77cc0ddbc40a" title="Grid" alt="" coords="293,5,339,32"/>
+<area shape="rect" id="node4" href="$07__elife_8js.html#a9d781bf64b8ad1cf60c97d665a2b0fed" title="Vector" alt="" coords="286,56,346,83"/>
+<area shape="rect" id="node5" href="$07__elife_8js.html#a72a51231f8b6002dc2ce85121626f93a" title="elementFromChar" alt="" coords="253,107,379,133"/>
+</map>
